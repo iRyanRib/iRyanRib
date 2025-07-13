@@ -3,5 +3,4 @@
 👩🏻‍🎓 Studying Computer engineering at the Universidade Federal de Itajubá (UNIFEI), Brazil<br/>
 🤖 Building conversational AI agents
 
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=iRyanRib&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-stats-gules-eta.vercel.app/api?username=iRyanRib&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
